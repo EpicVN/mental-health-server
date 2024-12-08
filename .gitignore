@@ -39,3 +39,4 @@ venv.bak/
 *.swp
 *.bak
 *.tmp
+.vercel
