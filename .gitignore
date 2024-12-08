@@ -1,0 +1,41 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Cài đặt môi trường ảo
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Thư mục cài đặt Python
+.Python
+
+# Tệp cấu hình IDE (ví dụ: PyCharm, Visual Studio Code)
+.vscode/
+.idea/
+
+# Tệp log
+*.log
+
+# Thư mục test
+*.tox/
+*.nox/
+*.coverage
+*.hypothesis/
+
+# Thư mục cache
+*.cache/
+*.pyc
+
+# Cấu hình editor (Ví dụ: Sublime Text)
+*.sublime-workspace
+*.sublime-project
+
+# Các tệp khác có thể không cần thiết
+*.db
+*.sqlite
+*.swp
+*.bak
+*.tmp
